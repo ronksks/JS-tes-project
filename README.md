@@ -3,8 +3,8 @@
 This repository includes a Node.js server and a test suite written with Jest to test its functionality.
 
 ## Installation
-Clone the repository
-Install dependencies using npm install
+Clone the repository.
+Install dependencies using npm install.
 
 ## Running Tests
 To run the tests, use the command npm test. 
@@ -17,7 +17,8 @@ The server file server.js includes endpoints for retrieving and creating users.
 The tests ensure that these endpoints return the expected data and handle errors correctly.
 
 ## Starting the Server
-To start the server, use the command npm run devStart. This will start the server on http://localhost:3000.
+To start the server, use the command npm run devStart. 
+This will start the server on http://localhost:3000.
 
 ## Conclusion
 The test suite ensures that the server functions correctly and handles errors appropriately. 
