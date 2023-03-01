@@ -3,11 +3,11 @@
 This repository includes a Node.js server and a test suite written with Jest to test its functionality.
 
 ## Installation
-Clone the repository.
-Install dependencies using npm install.
+Clone the repository.:-
+Install dependencies using npm install.:-
 
 ## Running Tests
-To run the tests, use the command npm test. 
+To run the tests, use the command npm test. :-
 This will start Jest and run all tests in the __tests__ directory.
 
 The test suite includes tests for the server endpoints in server.test.js. 
