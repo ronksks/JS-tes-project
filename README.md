@@ -1,5 +1,5 @@
-# JS-tes-project
-# Testing the Server with Jest
+
+# Testing an API with Mocha, Chai, and Nock.
 This repository includes a Node.js server and a test suite written with Jest to test its functionality.
 
 ## Installation
